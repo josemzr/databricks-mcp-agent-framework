@@ -61,6 +61,5 @@ The sample:
 ## Files
 
 - `app.py` - Main application using Azure AI Agent Service
-- `azure_ai_with_mcp.py` - Reference examples for MCP integration patterns
 - `.env` - Environment variables (not tracked in git)
 - `.gitignore` - Excludes sensitive files from version control
